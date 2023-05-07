@@ -1,20 +1,20 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -28,9 +28,9 @@
    "More": [
     {
       "id": 1,
-      "title": "Super Yandere Game Simulation",
-      "image": "https://play-lh.googleusercontent.com/I0ZZ43zNfHgZnaRn_cVI3Dx0gJ5NHN0GBH0KQn4_mPnDGEIycL9LyIU4-NI4KFbn65A9=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=game.yandere.simulator.cartoon.adventure.moto&hl=id"
+      "title": "Combat sigma freefire MOD MCPE",
+      "image": "https://play-lh.googleusercontent.com/yzsY-5FmcdU1AKKmQSpnLEkgAUyPsQigBbkUor08oEq7i8Nkh85x6bq1g_EoPSa7fXWv=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=mcpe.sigma.modification&hl=id"
     }
   ],
   "Categories": [
@@ -44,58 +44,58 @@
     
     {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Hit sigma battle royale Tips",
+      "title": "Clash Squad",
+      "image": "https://blog-static.mamikos.com/wp-content/uploads/2023/01/Download-Game-Sigma-Battle-Royale-APK-versi-2.0.0-dan-Cara-Instalnya.jpg",
+      "description": "Description",
+      "link": "https://ia902604.us.archive.org/27/items/1.-clash-squad/1.%20clash%20squad.html"
    },
 {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Hit sigma battle royale Tips",
+      "title": "Clash Squad",
+      "image": "https://blog-static.mamikos.com/wp-content/uploads/2023/01/Download-Game-Sigma-Battle-Royale-APK-versi-2.0.0-dan-Cara-Instalnya.jpg",
+      "description": "Description",
+      "link": "https://ia902604.us.archive.org/27/items/1.-clash-squad/1.%20clash%20squad.html"
     },{
    
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Hit sigma battle royale Tips",
+      "title": "Rampage",
+      "image": "https://img.utdstc.com/screen/8ce/4e3/8ce4e3242f64374ffd0f765529c1ef16dc414dfb94b8c9ab7a6289639eceebed:600",
+      "description": "Description",
+      "link": "https://ia902604.us.archive.org/27/items/1.-clash-squad/2.%20rampage.html"
     },
 {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Hit sigma battle royale Tips",
+      "title": "Red Christmas",
+      "image": "https://pasundan.jabarekspres.com/wp-content/uploads/2023/02/sigma-battle-royale-36265-4.jpg",
+      "description": "Description",
+      "link": "https://ia902604.us.archive.org/27/items/1.-clash-squad/3.%20red%20christmas.html"
     },{
       "id": 4,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Hit sigma battle royale Tips",
+      "title": "KO Fight",
+      "image": "https://fin.co.id/upload/85c68bc096e58e926ef325918b52e015.jpg",
+      "description": "Description",
+      "link": "https://ia902604.us.archive.org/27/items/1.-clash-squad/4.%20KO%20Fight.html"
       },
 {
       "id": 5,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Hit sigma battle royale Tips",
+      "title": "Gun King",
+      "image": "https://fin.co.id/upload/large/c7821c79bab5fa2c50f8ba1c93a06bcd.jpg",
+      "description": "Description",
+      "link": "https://ia902604.us.archive.org/27/items/1.-clash-squad/5.%20gun%20king.html"
     },{
    
       "id": 6,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Hit sigma battle royale Tips",
+      "title": "Beach Party",
+      "image": "https://fin.co.id/upload/3e98e6f7c77d2fc544b7299c80e2b1e1.jpg",
+      "description": "Description",
+      "link": "https://ia902604.usarchive.org/27/items/1.-clash-squad/6.%20beach%20party.html"
     
     }
   ]
