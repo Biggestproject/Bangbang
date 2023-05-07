@@ -1,20 +1,20 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "select_main_ads": "FACEBOOK,
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -28,9 +28,9 @@
    "More": [
     {
       "id": 1,
-      "title": "Super Yandere Game Simulation",
-      "image": "https://play-lh.googleusercontent.com/I0ZZ43zNfHgZnaRn_cVI3Dx0gJ5NHN0GBH0KQn4_mPnDGEIycL9LyIU4-NI4KFbn65A9=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=game.yandere.simulator.cartoon.adventure.moto&hl=id"
+      "title": "App Sigma Lite FF Guide",
+      "image": "https://play-lh.googleusercontent.com/AoSl51hZJP_q8y1qakCh_-RV2wXGyofe0JuNWlK1DWjdSOTZn_gsle1KPRIuYHuxhcq0=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=gameguide.benfrancois&hl=id"
     }
   ],
   "Categories": [
@@ -44,58 +44,58 @@
     
     {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
+      "name_category": "Battle sigma freefire Guide",
+      "title": "Solo",
       "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "description": "Description",
+      "link": "https://ia902602.us.archive.org/26/items/1.-solo/1.%20Solo.html"
    },
 {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
+      "name_category": "Battle sigma freefire Guide",
+      "title": "Solo",
       "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "description": "Description",
+      "link": "https://ia902602.us.archive.org/26/items/1.-solo/1.%20Solo.html"
     },{
    
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
+      "name_category": "Battle sigma freefire Guide",
+      "title": "Duo",
       "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "description": "Description",
+      "link": "https://ia902602.us.archive.org/26/items/1.-solo/2.%20Duo.html"
     },
 {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
+      "name_category": "Battle sigma freefire Guide",
+      "title": "Squad",
       "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "description": "Description",
+      "link": "https://ia902602.us.archive.org/26/items/1.-solo/3.%20Squad.html"
     },{
       "id": 4,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
+      "name_category": "Battle sigma freefire Guide",
+      "title": "Ranked",
       "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "description": "Description",
+      "link": "https://ia902602.us.archive.org/26/items/1.-solo/4.%20Ranked.html"
       },
 {
       "id": 5,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
+      "name_category": "Battle sigma freefire Guide",
+      "title": "Custom",
       "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "description": "Description",
+      "link": "https://ia902602.us.archive.org/26/items/1.-solo/5.%20Custom.html"
     },{
    
       "id": 6,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
+      "name_category": "Battle sigma freefire Guide",
+      "title": "Event",
       "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "description": "Description",
+      "link": "https://ia902602.us.archive.org/26/items/1.-solo/6.%20Event.html"
     
     }
   ]
